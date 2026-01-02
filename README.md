@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [PortFolio](https://shreyash-shetty-portfolio.netlify.app)
 
-- 📫 How to reach me *shreyashshetty99@gmail.com*
+- 📫 How to reach me -> shreyashshetty99@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
