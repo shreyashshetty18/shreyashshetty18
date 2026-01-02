@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Exploring Frontend Web Technologies**
 
-- 👨‍💻 All of my projects are available at [https://shreyash-shetty-portfolio.netlify.app](Portfolio)
+- 👨‍💻 All of my projects are available at [PortFolio](https://shreyash-shetty-portfolio.netlify.app)
 
 - 📫 How to reach me **shreyashshetty99@gmail.com**
 
