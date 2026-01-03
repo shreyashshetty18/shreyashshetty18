@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Shetty</h1>
-<h3 align="center">I’m a Frontend developer currently working with HTML, CSS, JavaScript & React and building Modern Projects to sharpen my skills. I enjoy experimenting with UI effects and animations. Frontend-focused developer skilled in crafting responsive web interfaces, data-driven insights, and interactive applications. Experienced in modern JavaScript, UI frameworks, and analytical workflows, with hands-on exposure to web platforms, data analysis.</h3>
+<h3 align="center">I’m a Frontend developer currently working with HTML, CSS, JavaScript & React and building Modern Projects to sharpen my skills. I enjoy experimenting with UI effects and animations. Frontend-focused developer skilled in crafting responsive web interfaces, data-driven insights, and interactive applications. Experienced in modern JavaScript, UI frameworks, and analytical workflows, with hands-on exposure to web platforms, data analysis.</h3><br>
 
 - 🌱 I’m currently learning **Exploring Frontend Web Technologies**
 
