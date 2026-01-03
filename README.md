@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreyash Shetty</h1>
-<h3 align="center">I’m a Frontend developer currently working with HTML, CSS, JavaScript & React and building Modern Projects to sharpen my skills. I enjoy experimenting with UI effects and animations. Frontend-focused developer skilled in crafting responsive web interfaces, data-driven insights, and interactive applications. Experienced in modern JavaScript, UI frameworks, and analytical workflows, with hands-on exposure to web platforms, data analysis.</h3><br>
+<h1 align="center">Hi 👋, I'm Shreyash Shetty</h1> <br>
+<h3 align="left">I’m a Frontend developer currently working with HTML, CSS, JavaScript & React and building Modern Projects to sharpen my skills. I enjoy experimenting with UI effects and animations. Frontend-focused developer skilled in crafting responsive web interfaces, data-driven insights, and interactive applications. Experienced in modern JavaScript, UI frameworks, and analytical workflows, with hands-on exposure to web platforms, data analysis.</h3><br><hr>
 
 - 🌱 I’m currently learning **Exploring Frontend Web Technologies**
 
@@ -7,8 +7,8 @@
 
 - 📫 How to reach me -> shreyashshetty99@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/shreyash04356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyash04356" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyash-shetty0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash-shetty0909" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyash018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyash018" height="30" width="40" /></a>
