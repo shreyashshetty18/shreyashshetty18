@@ -78,7 +78,7 @@ I also have hands-on exposure to <b>data analysis</b> and <b>analytical workflow
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreyashshetty18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shreyashshetty18&theme=dark&hide_border=false)<br/>
-username=shreyashshetty18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <hr>
 
