@@ -13,7 +13,6 @@
 **Frontend developer** jo focus karta hai building **pixel-perfect, high-performance web applications** par. 
 Mujhe design aur logic ko blend karke clean dashboards aur interactive interfaces banana pasand hai.
 
-🛠️ **Building:** Project AxnosAI & Data Whiz
 🎓 **Focus:** Performance optimization & accessibility
 🔭 **Goal:** Building data-rich interfaces that feel intuitive
 💬 **Ask me about:** React, Tailwind, & UI/UX Design
