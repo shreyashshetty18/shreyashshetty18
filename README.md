@@ -15,7 +15,7 @@ Mujhe design aur logic ko blend karke clean dashboards aur interactive interface
 
 🎓 **Focus:** Performance optimization & accessibility
 🔭 **Goal:** Building data-rich interfaces that feel intuitive
-💬 **Ask me about:** React, Tailwind, & UI/UX Design
+💬 **Ask me about:** Frontend Technologies 
 
 ---
 
