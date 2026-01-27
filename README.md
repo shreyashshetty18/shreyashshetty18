@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hello World! I'm <span style="color:#0ea5e9;">Shreyash Shetty</span> 
+# 👋🏻 Hello!! I'm <span style="color:#0ea5e9;">Shreyash Shetty</span> 
 ### ✨ Frontend Architect | UI/UX Enthusiast | Data-Driven Developer
 
 
