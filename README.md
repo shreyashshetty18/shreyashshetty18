@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👋🏻 Hello!! I'm <span style="color:#0ea5e9;">Shreyash Shetty</span> 
-### ✨ Frontend Architect | UI/UX Enthusiast | Data-Driven Developer
+### Web Developer | Python | Data Analysis
+Building responsive web applications and extracting meaningful insights from data using modern tools and clean code.
 
 
 
