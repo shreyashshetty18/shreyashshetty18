@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋🏻 Hello!! I'm <span style="color:#0ea5e9;">Shreyash Shetty</span> 
-### Web Developer | Python | Data Analysis
+### Web Developer 🚀 | Python ☠️| Data Analysis 💯
 Building responsive web applications and extracting meaningful insights from data using modern tools and clean code.
 
 
@@ -11,12 +11,12 @@ Building responsive web applications and extracting meaningful insights from dat
 ---
 
 ### 💫 About Me
-**Frontend developer** jo focus karta hai building **pixel-perfect, high-performance web applications** par. 
+**Web Developer** jo focus karta hai building **pixel-perfect, high-performance web applications** par. 
 Mujhe design aur logic ko blend karke clean dashboards aur interactive interfaces banana pasand hai.
 
 🎓 **Focus:** Performance optimization & accessibility
 🔭 **Goal:** Building data-rich interfaces that feel intuitive
-💬 **Ask me about:** Frontend Technologies 
+💬 **Ask me about:** Web Technologies 
 
 ---
 
