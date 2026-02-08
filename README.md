@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyash%20Shetty&fontSize=42&fontAlignY=30&desc=Crafting%20Digital%20Experiences%20%7%%&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Python+Enthusiast+%E2%98%A0%EF%B8%8F;Data+Analysis+Wizard+%F0%9F%92%AF;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF5B5B&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Python+Enthusiast+%E2%98%A0%EF%B8%8F;Data+Analysis+Wizard+%F0%9F%92%AF;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" /></a>
 
 
 <p align="center">
@@ -34,8 +34,7 @@
 name: Shreyash Shetty
 located_in: India
 current_focus: Building pixel-perfect, high-performance web applications
-education: 
-  - "Computer Science & Engineering"
+education: "Computer Science & Engineering (Data Science)"
   
 interests:
   - Web Development
@@ -99,9 +98,13 @@ fun_fact: "I speak fluent JavaScript and broken Python 😄"
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=shreyashshetty18&theme=light&hide_border=false)<br/>
+<div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=shreyashshetty18&theme=light&hide_border=false)
+
+</div>
 
 ---
 
@@ -134,16 +137,6 @@ fun_fact: "I speak fluent JavaScript and broken Python 😄"
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
-
-## 🐍 **Contribution Snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyashshetty18/shreyashshetty18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyashshetty18/shreyashshetty18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreyashshetty18/shreyashshetty18/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
