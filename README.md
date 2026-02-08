@@ -1,15 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyash%20Shetty&fontSize=42&fontAlignY=30&desc=Crafting%20Digital%20Experiences%20%7C%20Code%20%2B%20Design&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyash%20Shetty&fontSize=42&fontAlignY=30&desc=Crafting%20Digital%20Experiences%20%7%%&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Python+Enthusiast+%E2%98%A0%EF%B8%8F;Data+Analysis+Wizard+%F0%9F%92%AF;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Python+Enthusiast+%E2%98%A0%EF%B8%8F;Data+Analysis+Wizard+%F0%9F%92%AF;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyashshetty18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shreyashshetty18?label=Followers&style=for-the-badge&color=0ea5e9" alt="followers" />
-</p>
 
 <p align="center">
   <a href="https://shreyash-shetty-portfolio.netlify.app" target="_blank">
@@ -30,7 +26,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
@@ -105,19 +101,7 @@ fun_fact: "I speak fluent JavaScript and broken Python 😄"
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics**
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyashshetty18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="shreyashshetty18's GitHub stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashshetty18&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="shreyashshetty18's GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashshetty18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyashshetty18&theme=tokyonight&utcOffset=5.30" alt="Productive Time"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashshetty18&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+  ![](https://nirzak-streak-stats.vercel.app/?user=shreyashshetty18&theme=light&hide_border=false)<br/>
 
 ---
 
@@ -139,14 +123,6 @@ fun_fact: "I speak fluent JavaScript and broken Python 😄"
   <a href="mailto:shreyashshetty99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&logo=gmail" alt="Gmail"/>
   </a>
-</p>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyashshetty18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -173,7 +149,7 @@ fun_fact: "I speak fluent JavaScript and broken Python 😄"
 
 <div align="center">
   
-### 💙 **Show some ❤️ by starring some of my repositories!**
+###  **✨ Always learning. Always building. Always improving.**
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
