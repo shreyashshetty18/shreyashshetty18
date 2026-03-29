@@ -39,7 +39,7 @@ education: "Computer Science & Engineering (Data Science)"
 interests:
   - Data Analytics
   - Web Development
-  - UI/UX Design
+  - Machine Learning
   - Open Source Contribution
   
 goals_2026:
