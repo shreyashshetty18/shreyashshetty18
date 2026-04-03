@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shreyash%20Shetty&fontSize=42&fontAlignY=30&desc=Crafting%20Digital%20Experiences%20%7%%&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7K9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Data+Analytics+%F0%9F%9A%80;Python+Enthusiast+%E2%98%A0%EF%B8%8F;Web+Developer+%F0%9F%92%AF;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7U9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Data+Analytics+%F0%9F%9A%80;Python+Enthusiast+%E2%98%A0%EF%B8%8F;Web+Developer+%F0%9F%92%AF;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" /></a>
 
 
 <p align="center">
