@@ -98,11 +98,13 @@ fun_fact: "I speak fluent JavaScript and broken Python 😄"
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=shreyashshetty18&theme=light&hide_border=false)
+<!-- Streak Stats (better endpoint) -->
+<img height="180em" src="https://streak-stats.demolab.com?user=shreyashshetty18&theme=tokyonight&hide_border=true"/>
 
 </div>
 
