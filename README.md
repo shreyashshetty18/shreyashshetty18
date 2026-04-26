@@ -42,7 +42,7 @@ interests:
   - Machine Learning
   - Open Source Contribution
   
-goals_2026:
+goals_2026: "I am Back"
   - "Master advanced React patterns & Next.js"
   - "Build 10+ production-ready projects"
   - "Contribute to major open-source projects"
