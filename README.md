@@ -33,7 +33,7 @@
 ```yaml
 name: Shreyash Shetty
 located_in: India
-current_focus: Data Analytics, Building pixel-perfect, high-performance web applications
+current_focus: Data Analytics, Python, high-performance web applications
 education: "Computer Science & Engineering (Data Science)"
   
 interests:
