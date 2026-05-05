@@ -34,7 +34,7 @@
 name: Shreyash Shetty
 located_in: India
 current_focus: Data Analytics, Python, high-performance web applications
-education: "Computer Science & Engineering (Data Science)"
+education: "BTech Computer Science & Engineering (Data Science)"
   
 interests:
   - Data Analytics
