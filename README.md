@@ -37,11 +37,9 @@ current_focus: Data Analytics, Python, high-performance web applications
 education: "BTech Computer Science & Engineering (Data Science)"
   
 interests:
-  - Data Analytics
+  - Data Analytics & Science
   - Web Development
-  - Machine Learning
-  - Open Source Contribution
-  
+
 goals_2026: "I am Back"
   - "Master advanced React patterns & Next.js"
   - "Build 10+ production-ready projects"
