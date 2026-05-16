@@ -32,7 +32,7 @@
 
 ```yaml
 name: Shreyash Shetty
-located_in: India
+located_in: Bharat
 current_focus: Data Analytics, Python, high-performance web applications
 education: "BTech Computer Science & Engineering (Data Science)"
   
